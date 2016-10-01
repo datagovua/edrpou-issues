@@ -1,5 +1,7 @@
 # EDR Open Data and API
 
+GitHub projects:
+
 * [Operations (nginx configs and stuff)](https://github.com/datagovua/edrpou-operations)
 * [Single page application](https://github.com/datagovua/edrpou-static)
 * [GraphQL server](https://github.com/datagovua/edrpou-graphql)
